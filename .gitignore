@@ -1,1 +1,5 @@
-t
+logs
+
+.idea/
+
+node_js/node_modules/
