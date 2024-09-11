@@ -25,8 +25,3 @@
 
 // console.log(Math.pow(2,2))
 // console.log(Math.floor(Math.random() * 100))
-
-const firstText = 'Hello'
-const secondText = 'World'
-const resultText = firstText + secondText
-console.log(resultText)
