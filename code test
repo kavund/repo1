@@ -1,9 +1,0 @@
-function sum (x,y){
-    let s = x+y;
-    return s;
-}
-let result = sum(4,5);
-console.log(result);
-
-
-TextDecoderStream
