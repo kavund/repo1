@@ -23,12 +23,15 @@
 // console.log(resultText)
 // console.log(resultText2)
 
-let meme = 'Alice';
-console.log(meme.length)
+// let meme = 'Alice';
+// console.log(meme.length)
 
-const name2 = meme.repeat(2)
-console.log(name2)
+// const name2 = meme.repeat(2)
+// console.log(name2)
 
-console.log(meme.toUpperCase())
-console.log(meme.padStart(10, "ha"))
-console.log(meme.includes("a"))
+// console.log(meme.toUpperCase())
+// console.log(meme.padStart(10, "ha"))
+// console.log(meme.includes("a"))
+
+console.log(!'loh')
+console.log(!!'loh')
