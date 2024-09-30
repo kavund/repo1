@@ -18,6 +18,7 @@ function isAdult(age) {
 console.log(isAdult(15))
 console.log(isAdult(25))
 
+
 function checkAge(age1, age2 = null) {
     console.log(`Person 1: ${age1 >= 18 ? 'true' : 'false'}`);
     if (age2 !== null) {

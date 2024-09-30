@@ -28,15 +28,15 @@ calculateSum()
 
 // брудна функція, змінні оголошені глобально 
 
-const a = 6
-let b = 2
+// const a = 6
+// let b = 2
 
-const calculateSum = (a, b) =>{
-    console.log(a+b)
-}
+// const calculateSum = (a, b) =>{
+//     console.log(a+b)
+// }
 
-calculateSum(a, b)
-b = 6
-calculateSum(a, b)
+// calculateSum(a, b)
+// b = 6
+// calculateSum(a, b)
 
 // чиста функція 

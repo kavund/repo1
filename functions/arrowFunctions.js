@@ -12,7 +12,7 @@
 const user = {
     name: "Alice",
     printName: () =>{
-        console.log(this.name)     // не буде працювати 
+        console.log(this.name)     // не буде працювати (undefined)
     }
 
     // printName: function (){
